@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  First-project            | The "Love Calculator Project" is designed to entertain and engage users by providing a fun and whimsical way to assess the compatibility between two individuals based on their names. Through a simple algorithm or randomization, the project generates a "love percentage" or a playful message, adding an element of amusement to the exploration of interpersonal relationships. This project serves as a lighthearted tool, offering users a moment of amusement while acknowledging the inherent subjectivity and non-scientific nature of such calculations.         | https://github.com/M-travis123/first-project     |
+| 2 | Love-Calculator        | The "Love Calculator Project" is designed to entertain and engage users by providing a fun and whimsical way to assess the compatibility between two individuals based on their names. Through a simple algorithm or randomization, the project generates a "love percentage" or a playful message, adding an element of amusement to the exploration of interpersonal relationships. This project serves as a lighthearted tool, offering users a moment of amusement while acknowledging the inherent subjectivity and non-scientific nature of such calculations.         | https://github.com/M-travis123/Love-Calculator |
+| 3 | Mortgage-Calculator            | The "Mortgage Calculator" project is a practical and helpful tool designed for financial planning. It enables users to estimate their monthly mortgage payments based on inputs such as loan amount, interest rate, and loan term. The calculator provides valuable insights into the financial commitment of a mortgage, aiding users in making informed decisions about their housing investments by offering a clear breakdown of principal and interest components over the loan duration.            | https://github.com/M-travis123/Mortgage-Calculator       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
